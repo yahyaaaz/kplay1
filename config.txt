@@ -1,5 +1,5 @@
 token= NTM1NDAxNzM3MTI1ODg4MDAw.DyHnRw.koFcxEuNSlfRguL77Ptxyg6_IRU
-owner= 521071150328053761 
+owner= 312900220574892043
 prefix= K
 game= Kplay
 stayinchannel=true 
